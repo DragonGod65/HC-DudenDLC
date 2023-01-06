@@ -1,2 +1,2 @@
 # HC-DudenDLC
-Ressourcepacke welche alle fehlenden Deutscheübersetzung im HC Modpack fixt.
+Ressourcepacke welche alle fehlenden Deutsche Übersetzung im HC Modpack fixt.
