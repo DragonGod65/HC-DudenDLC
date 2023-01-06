@@ -1,0 +1,17 @@
+{
+  "item.ae2things.disk_drive_1k": "1k ME Festplatte",
+  "item.ae2things.disk_drive_4k": "4k ME Festplatte",
+  "item.ae2things.disk_drive_16k": "16k ME Festplatte",
+  "item.ae2things.disk_drive_64k": "64k ME Festplatte",
+  "item.ae2things.disk_housing": "ME Festplattengehäuse",
+  "block.ae2things.advanced_inscriber": "Fortgeschrittener Beschreiber",
+  "block.ae2things.crystal_growth": "Kristallwachstumskammer",
+  "itemGroup.ae2things.item_group": "AE2Things",
+  "gui.ae2things.advanced_inscriber": "Fortgeschritener Beschreiber",
+  "gui.ae2things.crystal_growth": "Kristallwachstumskammer",
+  "command.ae2things.recover_success": "%s wurden von Festplatte gewonnen mit einer UUID von [%s].",
+  "command.ae2things.recover_fail": "Gescheitiert von der Festplatte zu gewinnen: UUID [%s] existieren nicht.",
+  "command.ae2things.getuuid_success": "UUID der gegebene Festplatte beträgt: [%s]",
+  "command.ae2things.getuuid_fail_nouuid": "Fehler, die gegebene Festplatte ist leer/keine uuid wurde gefunden.",
+  "command.ae2things.getuuid_fail_notdisk": "Fehler, das gegebene Item ist keine Festplatte."
+}

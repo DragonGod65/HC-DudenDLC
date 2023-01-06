@@ -1,0 +1,44 @@
+{
+    "mod.towers_of_the_wild_reworked.name": "Towers of the Wild: Reworked",
+
+    "modmenu.original_source": "Originale Quelle",
+    "modmenu.summaryTranslation.towers_of_the_wild_reworked": "Cool Türme die Erkundung erweitern!",
+    "modmenu.descriptionTranslation.towers_of_the_wild_reworked": "Fügt hohe Türme zu Welt hinzu, inspiriert bei TLOZ BOTW.",
+
+    "A trip to the Countryside": "Eine Reise zur Natur",
+    "Find a Ancient Tower in the Woods or out in the Fields": "Finde einen antiken Turm im Wald oder in den offenen Felder.",
+    "I found it like this...": "I found it like this...",
+    "Find a Ancient Tower": "Finde einen antiken Turm",
+    "Brrrrrr": "Brrrrrr",
+    "Find a Icy Tower": "Finde einen vereisten Turm",
+    "BANANAS?": "BANANAS?",
+    "Find a Tower in the Jungle": "Finde einen Turm im Dschungel",
+    "Is this an Island?": "Ist das eine Insel?",
+    "Find a Tower in the Ocean": "Finde einen Turm im Ozean",
+    "Found Nemo?": "Nemo?",
+    "Find a Tower in the Ocean...just with Corals": "Finde einen Turm im Ozean... nur mit Korallen",
+    "A breath of fresh air": "Ein Brise aus frischer Luft",
+    "Fine...but how do I get up there?": "Gut...aber wie komme ich nach da oben?",
+    "Towers of the Wild: Reworked": "Towers of the Wild: Reworked",
+    "Are you able to climb all Towers?": "Bist du fähig auf alle Türme zu klettern?",
+
+    "config.towers_of_the_wild_reworked.tower_active": "Aktiv",
+    "config.towers_of_the_wild_reworked.tower_spacing": "Abstand",
+    "config.towers_of_the_wild_reworked.tower_spacing.tooltip": "Der Abstand zwischen jedne Turm (low: common, high: rare)",
+
+    "config.towers_of_the_wild_reworked.derelict_grass": "Verfallener Grassturm",
+    "config.towers_of_the_wild_reworked.derelict": "Verfallener Turm",
+    "config.towers_of_the_wild_reworked.ice": "Eis Turm",
+    "config.towers_of_the_wild_reworked.jungle": "Dschungel Turm",
+    "config.towers_of_the_wild_reworked.ocean": "Turm im Ozean",
+    "config.towers_of_the_wild_reworked.ocean_warm": " Turm im warmen Ozean",
+    "config.towers_of_the_wild_reworked.regular": "Normaler Turm",
+
+    "category.towers_of_the_wild_reworked.towers": "",
+    "config.towers_of_the_wild_reworked.biome_blacklist": "",
+    "config.towers_of_the_wild_reworked.biome_blacklist.tooltip": "Eine Liste von den Biomen wo die Türme nicht spawnen.",
+
+    "config.towers_of_the_wild_reworked.mod_integration": "Mod Integrationen",
+    "config.towers_of_the_wild_reworked.mod_integration.waystones": "Türme spawnen mit einen Wegstein oben",
+    "config.towers_of_the_wild_reworked.mod_integration.waystones.tooltip": "Nur wen der Waystone mod installiert ist und das richtig gesetzt wurde: Türme spawnen mit einen Wegstein oben."
+}

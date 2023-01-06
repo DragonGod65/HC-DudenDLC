@@ -1,0 +1,45 @@
+{
+  "block.wirelessnetworks.node_block": "Netzwerk Knoten",
+  "item.wirelessnetworks.entangled_capacitor": "Verstrickter Kondensator",
+
+
+  "gui.wirelessnetworks.network.select": "Wähle eine Netzwerk",
+  "gui.wirelessnetworks.network.create": "Erstelle ein Netzwerk",
+  "gui.wirelessnetworks.network.edit": "Editiere Netzwerk",
+
+  "gui.wirelessnetworks.network.save": "Speichern",
+
+  "gui.wirelessnetworks.network.input.true": "Input",
+  "gui.wirelessnetworks.network.input.false": "Output",
+
+  "gui.wirelessnetworks.network.public": "Netzwerk veröffentlichen",
+  "gui.wirelessnetworks.network.private": "Netzwerk privatisieren",
+
+  "gui.wirelessnetworks.network.owned": "Dir gehört das Netzwerk",
+  "gui.wirelessnetworks.network.ownedby": "Das Netzwerk gehört %s",
+
+  "gui.wirelessnetworks.network.delete": "Netzwerk löschen",
+  "gui.wirelessnetworks.network.delete.confirm" : "Drücke Shift + Drücke nochmal zum löschen",
+
+
+  "gui.wirelessnetworks.network.send": "Energie limit this network can send per tick.",
+  "gui.wirelessnetworks.network.receive": "Energie limit this network can receive per tick.",
+  "gui.wirelessnetworks.network.store": "Energie limit this network can store.",
+
+  "gui.wirelessnetworks.network.suggestion": "Netzwerk ID...",
+
+
+  "wirelessnetworks.input": "Input",
+  "wirelessnetworks.output": "Output",
+  "wirelessnetworks.capacity": "Kapazität",
+
+  "warning.wirelessnetworks.network.invalid": "Ungültig %s!",
+  "warning.wirelessnetworks.network.invalid.numbers.only": "Ungültig %s! Nur Zahlen sind erlaubt.",
+
+  "warning.wirelessnetworks.network.doesnt.exist": "Das Netzwerk existiert nicht mehr!",
+  "warning.wirelessnetworks.network.modify.dont.own": "Du kannst Netzwerke nicht verändern die dir nicht gehören!",
+
+  "warning.wirelessnetworks.network.id.empty": "Network ID kann nicht leer sein!",
+  "warning.wirelessnetworks.network.id.characters": "Network ID kann nur maximal aus 10 Ziffern bestehen",
+  "warning.wirelessnetworks.network.misc": "Du kannst dieses Netzwerk nicht nutzen. Das sollte nicht passieren..."
+}

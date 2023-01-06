@@ -1,0 +1,70 @@
+{
+  "block.advancednetherite.netherite_iron_block": "Netherite-Eisen Block",
+  "block.advancednetherite.netherite_gold_block": " Netherite-Gold Block",
+  "block.advancednetherite.netherite_emerald_block": "Netherite-Smaragd Block",
+  "block.advancednetherite.netherite_diamond_block": "Netherite-Diamant Block",
+
+  "item.advancednetherite.netherite_iron_ingot": "Netherite-Eisen Barren",
+  "item.advancednetherite.netherite_gold_ingot": "Netherite-Gold Barren",
+  "item.advancednetherite.netherite_emerald_ingot": "Netherite-Smaragd Barren",
+  "item.advancednetherite.netherite_diamond_ingot": "Netherite-Diamant Barren",
+
+  "item.advancednetherite.netherite_iron_helmet": "Netherite-Eisen Helm",
+  "item.advancednetherite.netherite_gold_helmet": "Netherite-Gold Helm",
+  "item.advancednetherite.netherite_emerald_helmet": "Netherite-Smaragd Helm",
+  "item.advancednetherite.netherite_diamond_helmet": "Netherite-Diamant Helm",
+
+  "item.advancednetherite.netherite_iron_chestplate": "Netherite-Eisen Harnisch",
+  "item.advancednetherite.netherite_gold_chestplate": "Netherite-Gold Harnisch",
+  "item.advancednetherite.netherite_emerald_chestplate": "Netherite-Smaragd Harnisch",
+  "item.advancednetherite.netherite_diamond_chestplate": "Netherite-Diamant Harnisch",
+
+  "item.advancednetherite.netherite_iron_leggings": "Netherite-Eisen Beinschutz",
+  "item.advancednetherite.netherite_gold_leggings": "Netherite-Gold Beinschutz",
+  "item.advancednetherite.netherite_emerald_leggings": "Netherite-Smaragd Beinschutz",
+  "item.advancednetherite.netherite_diamond_leggings": "Netherite-Diamant Beinschutz",
+
+  "item.advancednetherite.netherite_iron_boots": "Netherite-Eisen Stiefel",
+  "item.advancednetherite.netherite_gold_boots": "Netherite-Gold Stiefel",
+  "item.advancednetherite.netherite_emerald_boots": "Netherite-Smaragd Stiefel",
+  "item.advancednetherite.netherite_diamond_boots": "Netherite-Diamant Stiefel",
+
+  "item.advancednetherite.netherite_iron_axe": "Netherite-Eisen Axt",
+  "item.advancednetherite.netherite_gold_axe": "Netherite-Gold Axt",
+  "item.advancednetherite.netherite_emerald_axe": "Netherite-Smaragd Axt",
+  "item.advancednetherite.netherite_diamond_axe": "Netherite-Diamant Axt",
+
+  "item.advancednetherite.netherite_iron_hoe": "Netherite-Eisen Hacke",
+  "item.advancednetherite.netherite_gold_hoe": "Netherite-Gold Hacke",
+  "item.advancednetherite.netherite_emerald_hoe": "Netherite-Smaragd Hacke",
+  "item.advancednetherite.netherite_diamond_hoe": "Netherite-Diamant Hacke",
+
+  "item.advancednetherite.netherite_iron_pickaxe": "Netherite-Eisen Spitzhacke",
+  "item.advancednetherite.netherite_gold_pickaxe": "Netherite-Gold Spitzhacke",
+  "item.advancednetherite.netherite_emerald_pickaxe": "Netherite-Smaragd Spitzhacke",
+  "item.advancednetherite.netherite_diamond_pickaxe": "Netherite-Diamant Spitzhacke",
+
+  "item.advancednetherite.netherite_iron_shovel": "Netherite-Eisen Schaufel",
+  "item.advancednetherite.netherite_gold_shovel": "Netherite-Gold Schaufel",
+  "item.advancednetherite.netherite_emerald_shovel": "Netherite-Smaragd Schaufel",
+  "item.advancednetherite.netherite_diamond_shovel": "Netherite-Diamant Schaufel",
+
+  "item.advancednetherite.netherite_iron_sword": "Netherite-Eisen Schwert",
+  "item.advancednetherite.netherite_gold_sword": "Netherite-Gold Schwert",
+  "item.advancednetherite.netherite_emerald_sword": "Netherite-Smaragd Schwert",
+  "item.advancednetherite.netherite_diamond_sword": "Netherite-Diamant Schwert",
+
+  "itemGroup.advancednetherite.tab": "Erweitertes Netherite",
+
+  "tooltip.advancednetherite.endermask_armor.perk_one": "+ Beruhigt Endermen",
+  "tooltip.advancednetherite.piglinpassive_armor.perk_one": "+ Beruhigt Piglins",
+
+  "advancements.advancednetherite.husbandry.netherite_diamond_hoe.title": "Warum?",
+  "advancements.advancednetherite.husbandry.netherite_diamond_hoe.description": "Crafte eine Netherite-Diamond Hacke und besuche danach einen Psyschologen.",
+  "advancements.advancednetherite.nether.netherite_gold_armor.title": "Das ultimative Ablenkungs Outfit für Piglins",
+  "advancements.advancednetherite.nether.netherite_gold_armor.description": "Erlange eine komplette Rüstung aus Netherite-Gold",
+  "advancements.advancednetherite.nether.netherite_emerald_armor.title": "Endermen?",
+  "advancements.advancednetherite.nether.netherite_emerald_armor.description": "Erlange eine komplette Rüstung aus Netherite-Smaragd",
+  "advancements.advancednetherite.nether.netherite_diamond_armor.title": "Bedecke mich in Netherite-Diamant",
+  "advancements.advancednetherite.nether.netherite_diamond_armor.description": "Erlange eine komplette Rüstung aus Netherite-Diamant"
+}

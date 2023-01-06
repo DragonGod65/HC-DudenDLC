@@ -1,0 +1,12 @@
+{
+  "itemGroup.quartzelv.quartz_elevator": "Quarzfahrstuhl",
+  "block.quartzelv.quartz_elevator": "Quarzfahrstuhl",
+  "block.quartzelv.smooth_quartz_elevator": "Glatter Quarzfahrstuhl",
+  "text.autoconfig.quartzelv.title": "QuarzFahrstuhl",
+  "text.autoconfig.quartzelv.option.quartzElevatorDistance": "Max Entfernung des Quarzfahrstuhls",
+  "text.autoconfig.quartzelv.option.smoothQuartzElevatorDistance": "Max Entfernung des glatten Quarzfahrstuhls",
+  "text.autoconfig.quartzelv.option.mixTypes": "Zwischen unterschiedlichen Fahrstuhl Typen wechseln",
+  "text.autoconfig.quartzelv.option.isPlayerOnly": "Nur Spieler ",
+  "text.autoconfig.quartzelv.option.displayParticles": "Anzeigen von Partikeln"
+
+}

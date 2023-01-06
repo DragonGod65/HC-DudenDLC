@@ -1,0 +1,17 @@
+{
+    "text.wc.title": "WaveyCapes Einstellung",
+
+    "text.wc.setting.capestyle": "Umhang Style",
+    "text.wc.setting.capestyle.BLOCKY": "Blocky",
+    "text.wc.setting.capestyle.SMOOTH": "Smooth",
+    "text.wc.setting.windmode": "Wind Modus",
+    "text.wc.setting.windmode.NONE": "Kein Wind",
+    "text.wc.setting.windmode.WAVES": "Wellen",
+    "text.wc.setting.windmode.SLIGHT": "Zufällig",
+    "text.wc.setting.capemovement": "Umhang Bewegung",
+    "text.wc.setting.capemovement.VANILLA": "Klassisch",
+    "text.wc.setting.capemovement.BASIC_SIMULATION": "Simulation",
+    "text.wc.setting.capeparts": "Umhang Teile",
+    "text.wc.setting.gravity": "Schwerkraft",
+    "text.wc.setting.maxBend": "Max. Biegungswinkel"
+}

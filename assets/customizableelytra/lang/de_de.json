@@ -1,0 +1,23 @@
+{
+  "block.minecraft.banner.base.black": "Schwarze Basis",
+  "block.minecraft.banner.base.blue": "Blaue Basis",
+  "block.minecraft.banner.base.brown": "Braune Basis",
+  "block.minecraft.banner.base.cyan": "Türkise Basis",
+  "block.minecraft.banner.base.gray": "Graue Basis",
+  "block.minecraft.banner.base.green": "Grüne Basis",
+  "block.minecraft.banner.base.light_blue": "Hellblaue Basis",
+  "block.minecraft.banner.base.light_gray": "Hellgraue Basis",
+  "block.minecraft.banner.base.lime": "Hellgrüne Basis",
+  "block.minecraft.banner.base.magenta": "Magenta Basis",
+  "block.minecraft.banner.base.orange": "Orangene Basis",
+  "block.minecraft.banner.base.pink": "Rosa Basis",
+  "block.minecraft.banner.base.purple": "Violette Basis",
+  "block.minecraft.banner.base.red": "Rote Basis",
+  "block.minecraft.banner.base.white": "Weiße Basis",
+  "block.minecraft.banner.base.yellow": "Gelbe Basis",
+  "item.customizableelytra.cape_hidden": "Umhhangs Muster verstecken",
+  "item.customizableelytra.left_wing": "Linker Flügel:",
+  "item.customizableelytra.right_wing": "Rechter Flügel:",
+  "item.customizableelytra.elytra_wing": "Elytra Flügel",
+  "item.customizableelytra.glowing_wing": "Leuchtend"
+}

@@ -1,0 +1,15 @@
+{
+    "text.autoconfig.cyti.title": "Modifikationen des Mülleimer",
+    "text.autoconfig.cyti.option.trashSettings": "Mülleimer Einstellungen",
+    "text.autoconfig.cyti.option.trashSettings.directBucketClearing": "Direktes Leeren des Eimers",
+    "text.autoconfig.cyti.option.trashSettings.directBucketClearing.@Tooltip": "Eimer sofort leeren nach rechts-click auf Eimer.",
+    "text.autoconfig.cyti.option.trashSettings.shiftClearingBucket": "Shift-Säubern des Eimers",
+    "text.autoconfig.cyti.option.trashSettings.shiftClearingBucket.@Tooltip": "Wenn shift-clicking mit einem Eimer beim Mülleimer wird der Eimer sofort geleert",
+    "text.autoconfig.cyti.option.trashSettings.energyTrashcanInput": "Energie Mülleimer Input",
+    "text.autoconfig.cyti.option.trashSettings.energyTrashcanInput.@Tooltip": "Die Energie pro tick input in items und Kabel",
+    "text.autoconfig.cyti.option.trashSettings.fluidTrashcanInput": "Flüssigkeiten Mülleimer Input",
+    "text.autoconfig.cyti.option.trashSettings.fluidTrashcanInput.@Tooltip": "Die Flüssigkeiten pro tick input in items und Röhren",
+    "block.cyti.trashcan_item": "Item Mülleimer",
+    "block.cyti.trashcan_fluid": "Flüssigkeiten Mülleimer",
+    "block.cyti.trashcan_energy": "Energie Mülleimer"
+}

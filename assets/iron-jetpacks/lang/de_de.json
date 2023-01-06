@@ -1,0 +1,40 @@
+{
+  "itemGroup.iron-jetpacks.iron-jetpacks": "Iron Jetpacks",
+
+  "item.iron-jetpacks.strap": "Lederriemen",
+  "item.iron-jetpacks.basic_coil": "Basic Spule",
+  "item.iron-jetpacks.advanced_coil": "Fortgeschritten Spule",
+  "item.iron-jetpacks.elite_coil": "Elite Spule",
+  "item.iron-jetpacks.ultimate_coil": "Ultimative Spule",
+  "item.iron-jetpacks.expert_coil": "Experten Spule",
+
+  "item.iron-jetpacks.cell": "%s Energy Cell",
+  "item.iron-jetpacks.thruster": "%s Thruster",
+  "item.iron-jetpacks.capacitor": "%s Capacitor",
+  "item.iron-jetpacks.jetpack": "%s Jetpack",
+
+  "keybind.iron-jetpacks.engine": "Toggle Engine",
+  "keybind.iron-jetpacks.hover": "Toggle Hover Mode",
+  "keybind.iron-jetpacks.descend": "Descend",
+
+  "subtitle.iron-jetpacks.jetpack": "Jetpack",
+
+  "tooltip.iron-jetpacks.hold_shift_for_info": "§7Drücke §e§oSHIFT §r§7für weitere Informationen",
+  "tooltip.iron-jetpacks.on": "AN",
+  "tooltip.iron-jetpacks.off": "AUS",
+  "tooltip.iron-jetpacks.infinite": "Unendlich",
+  "tooltip.iron-jetpacks.engine": "MOTOR",
+  "tooltip.iron-jetpacks.hover": "SCHWEBEN",
+  "tooltip.iron-jetpacks.tier": "EBENE %s",
+  "tooltip.iron-jetpacks.fuel_usage": "§7Treibstoffverbrauch: §a%s",
+  "tooltip.iron-jetpacks.vertical_speed": "§7Vertikale Geschwindigkeit: §a%s",
+  "tooltip.iron-jetpacks.vertical_acceleration": "§7Vertikale Beschleunigung: §a%s",
+  "tooltip.iron-jetpacks.horizontal_speed": "§7Horizontale Geschwindigkeit: §a%s",
+  "tooltip.iron-jetpacks.hover_speed": "§7Schwebende Geschwindigkeit: §a%s",
+  "tooltip.iron-jetpacks.descend_speed": "§7Landungs Geschwindigkeit: §a%s",
+  "tooltip.iron-jetpacks.sprint_modifier": "§7Sprint Modifikator: §a%s",
+  "tooltip.iron-jetpacks.sprint_fuel_modifier": "§7Sprint Treibstoff Modifikator: §a%s",
+  "tooltip.iron-jetpacks.toggle_engine": "Umgeschalteter Motor %s",
+  "tooltip.iron-jetpacks.toggle_hover": "Umgeschaltetes Schweben %s",
+  "tooltip.iron-jetpacks.state_tooltip_layout": "%s §7| %s §7| %s"
+}

@@ -1,0 +1,21 @@
+{
+  "item.ironchests.wood_copper_upgrade": "[WIP] Holztuhe zu Kupfer Upgrade",
+  "item.ironchests.copper_iron_upgrade": "Kupfertruhe zu Eisen Upgrade",
+  "item.ironchests.iron_gold_upgrade": "Eisentruhe zu Gold Upgrade",
+  "item.ironchests.gold_diamond_upgrade": "Goldtruhe zu Diamant Upgrade",
+  "item.ironchests.gold_emerald_upgrade": "Goldtruhe zu Smaragd Upgrade",
+  "item.ironchests.diamond_obsidian_upgrade": "Diamanttruhe zu Obsidian Upgrade",
+  "item.ironchests.diamond_crystal_upgrade": "Diamanttruhe zu Kristall Upgrade",
+  "item.ironchests.emerald_obsidian_upgrade": "Smaragdtruhe zu Obsidian Upgrade",
+  "item.ironchests.emerald_crystal_upgrade": "Smaragdtruhe zu Kristall Upgrade",
+  "item.ironchests.wood_christmas_upgrade": "Holztruhe zu Weihnachts-Edition Upgrade",
+  "block.ironchests.copper_chest": "Kupfertruhe",
+  "block.ironchests.iron_chest": "Eisentruhe",
+  "block.ironchests.gold_chest": "Goldtruhe",
+  "block.ironchests.diamond_chest": "Diamanttruhe",
+  "block.ironchests.emerald_chest": "Smaragdtruhe",
+  "block.ironchests.crystal_chest": "Kristalltruhe",
+  "block.ironchests.obsidian_chest": "Obsidiantruhe",
+  "block.ironchests.christmas_chest": "Weihnachts-Editions Truhe",
+  "itemGroup.ironchests.general": "Iron Chests"
+}

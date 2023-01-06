@@ -1,0 +1,13 @@
+{
+  "smoothswapping.config.menu": "Smooth Swapping Einstellungsmenü",
+  "smoothswapping.config.general": "Allgemein",
+  "smoothswapping.config.option.animationspeed": "Animations Geschwindigkeit",
+  "smoothswapping.config.option.animationspeed.speed": "Geschwindigkeit",
+  "smoothswapping.config.option.ease": "Leichtigkeit Animation Style",
+  "smoothswapping.config.option.ease.linear": "Linear",
+  "smoothswapping.config.option.ease.ease-in": "Leichtigkeit-In",
+  "smoothswapping.config.option.ease.ease-out": "Leichtigkeit-Out",
+  "smoothswapping.config.option.ease.ease-in-out": "Leichtigkeit-In-Out",
+  "smoothswapping.config.option.easespeed": "Leichtigkeit Animations Geschwindigkeit",
+  "smoothswapping.config.option.easespeed.speed": "Geschwindigkeit"
+}

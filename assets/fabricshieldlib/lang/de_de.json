@@ -1,0 +1,9 @@
+{   
+    "text.autoconfig.fabricshieldlib.title": "Fabric Shield Lib Config",
+    "text.autoconfig.fabricshieldlib.option.enable_tooltips":"Aktiviere Schild Hilfe",
+    "text.autoconfig.fabricshieldlib.option.allow_vanilla_shield_enchanting":"Erlaube Vanilla Schilder zu verzaubern",
+    "text.autoconfig.fabricshieldlib.option.vanilla_shield_enchantability":"Vanilla Schild Verzauberbarkeit",
+    "fabricshieldlib.shield_tooltip.start":"Wenn von einer Axt getroffen",
+    "fabricshieldlib.shield_tooltip.unit":"s",
+    "fabricshieldlib.shield_tooltip.end":"Cooldown"
+}

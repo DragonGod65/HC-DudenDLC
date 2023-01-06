@@ -1,0 +1,19 @@
+{
+	"mbf.options": "More Banner Features Einstellungen",
+
+	"mbf.options.bar": "Holzleiste",
+	"mbf.options.samurai_banner": "Samurai Umhang",
+	"mbf.options.fox_correction": "Korrektur des Fuchsmauls",
+	"mbf.options.banner_glint": "Verzauberungs Effekt",
+	"mbf.options.horse_slot": "Züsatzlicher Pferde Slot",
+	"mbf.options.errors": "Fehler Meldung",
+
+	"mbf.tooltip.bar": "Holzleiste wird zwischen den Tieren und den Bannern, die sie an ihrer Seite tragen, angezeigt.",
+	"mbf.tooltip.samurai_banner": "Zeigt den Bannerumhang als Samurai-Banner an [BETA]",
+	"mbf.tooltip.fox_correction": "Banner in Fuchsmäulern werden korrekt angezeigt.",
+	"mbf.tooltip.horse_slot": "Gibt an, ob der zusätzliche Pferdeplatz aktiviert werden soll. Kann Probleme verursachen, wenn es nur auf dem Server deaktiviert ist!",
+	"mbf.tooltip.banner_glint": "All Umhänge werden den Verzauberugnseffekt haben.",
+	"mbf.tooltip.errors": "Wenn MoreBannerFeatures beim Rendern einen Fehler feststellt, wird dieser im Chat angezeigt.",
+
+	"mbf.message.error": "§c§lMoreBannerFeatures: §cEin Fehler ist aufgetreten beim rendern. Bitte berichte das mit dem game log im discord durchs klicken dieser Meldung . This Meldung kann deaktiviert werden in den Einstellungen des mod's"
+}
