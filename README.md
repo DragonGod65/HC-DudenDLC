@@ -1,12 +1,16 @@
 # HC-DudenDLC
 Ressourcepacket welche alle fehlenden Deutsche Übersetzung im HC Modpack fixt.
 
+<br />
+<br />
 Ressourcepacket bei Huebcraft installieren <br />
-1.In den Appdata Ordner des PCs gehen <br />
-2.Dann in den HuebCraft Ordner <br />
-3.Indem Ordner findet man den minecraft Ordner. Dort ist wie im .minecraft Ordner <br />
-4.So navigiert man zum resourcepacks Ordner und legt die zip|Ordner ab <br />
+1. In den Appdata Ordner des PCs gehen <br />
+2. Dann in den HuebCraft Ordner <br />
+3. Indem Ordner findet man den minecraft Ordner. Dort ist wie im .minecraft Ordner <br />
+4. So navigiert man zum resourcepacks Ordner und legt die zip|Ordner ab <br />
 
+<br />
+<br />
 Bei einem Fehler (Kontext/Wort) bitte ein neuen Issue bei Github öffnen mit den zugehörigen Label <br />
 
 <br />
