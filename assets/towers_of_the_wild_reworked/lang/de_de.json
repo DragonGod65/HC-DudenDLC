@@ -7,7 +7,7 @@
 
     "A trip to the Countryside": "Eine Reise zur Natur",
     "Find a Ancient Tower in the Woods or out in the Fields": "Finde einen antiken Turm im Wald oder in den offenen Felder.",
-    "I found it like this...": "I found it like this...",
+    "I found it like this...": "Ich fand es so...",
     "Find a Ancient Tower": "Finde einen antiken Turm",
     "Brrrrrr": "Brrrrrr",
     "Find a Icy Tower": "Finde einen vereisten Turm",
@@ -24,7 +24,7 @@
 
     "config.towers_of_the_wild_reworked.tower_active": "Aktiv",
     "config.towers_of_the_wild_reworked.tower_spacing": "Abstand",
-    "config.towers_of_the_wild_reworked.tower_spacing.tooltip": "Der Abstand zwischen jedne Turm (low: common, high: rare)",
+    "config.towers_of_the_wild_reworked.tower_spacing.tooltip": "Der Abstand zwischen jeden Turm (low: common, high: rare)",
 
     "config.towers_of_the_wild_reworked.derelict_grass": "Verfallener Grassturm",
     "config.towers_of_the_wild_reworked.derelict": "Verfallener Turm",
