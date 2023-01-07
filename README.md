@@ -2,18 +2,18 @@
 Ressourcepacke welche alle fehlenden Deutsche Übersetzung im HC Modpack fixt.
 
 Bei einem Fehler (Kontext/Wort) bitte ein neuen Issue bei Github öffnen mit den zugehörigen Label
-
-
+<br />
+<br />
 ---Incomplete---
-Mostructures 90%__
-Iron Jetpacks 50%__
-MCDungeons Weapons 40%__
-Valley 20%__
-Industrial Revolution 10%__
-Malilib 5%__
-MCDungeons Armor 2.5%__
-Inventory Control Tweaks 0%__
-Sodium 0%__
+Mostructures 90% <br />
+Iron Jetpacks 50% <br />
+MCDungeons Weapons 40% <br />
+Valley 20% <br />
+Industrial Revolution 10% <br />
+Malilib 5% <br />
+MCDungeons Armor 2.5% <br />
+Inventory Control Tweaks 0% <br />
+Sodium 0% <br />
 
 
 ---Completed---
