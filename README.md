@@ -5,15 +5,15 @@ Bei einem Fehler (Kontext/Wort) bitte ein neuen Issue bei Github öffnen mit den
 
 
 ---Incomplete---
-Mostructures 90%
-Iron Jetpacks 50%
-MCDungeons Weapons 40%
-Valley 20%
-Industrial Revolution 10%
-Malilib 5%
-MCDungeons Armor 2.5%
-Inventory Control Tweaks 0%
-Sodium 0%
+Mostructures 90%__
+Iron Jetpacks 50%__
+MCDungeons Weapons 40%__
+Valley 20%__
+Industrial Revolution 10%__
+Malilib 5%__
+MCDungeons Armor 2.5%__
+Inventory Control Tweaks 0%__
+Sodium 0%__
 
 
 ---Completed---
