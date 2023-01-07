@@ -5,7 +5,6 @@ Bei einem Fehler (Kontext/Wort) bitte ein neuen Issue bei Github öffnen mit den
 <br />
 <br />
 ---Incomplete--- <br />
-Towers of the Wild Reworked 95% <br />
 Mostructures 90% <br />
 Iron Jetpacks 50% <br />
 MCDungeons Weapons 40% <br />
@@ -15,9 +14,15 @@ Malilib 5% <br />
 MCDungeons Armor 2.5% <br />
 Inventory Control Tweaks 0% <br />
 Sodium 0% <br />
+
+Botania Lexica 0%  <br />
+Revolutionary Guide from Inustrial Revolution <br />
+Croptopia Book 0% <br />
+Advancements 5% <br />
 <br />
 <br />
 ---Completed--- <br />
+Towers of the Wild Reworked 100% <br />
 3dSkinlayers 100% <br />
 Advanced Netherite 100% <br />
 ae2things 100% <br />
