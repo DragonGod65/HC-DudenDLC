@@ -281,15 +281,12 @@
   "block.biomemakeover.itching_ivy": "Juckendes Efeu",
   "block.biomemakeover.moth_blossom": "Mottenblüte",
   "block.biomemakeover.adjudicator_tapestry": "Richternde Tapisserie",
-  
-  
   "block.biomemakeover.cladded_stone": "Cladded Stone",
   "block.biomemakeover.directional_data": "Directional Data Block",
   "block.biomemakeover.wild_mushrooms": "Wild Mushrooms",
   "block.biomemakeover.potted_wild_mushrooms": "Eingetopfter Wild Mushrooms",
   "block.biomemakeover.black_thistle": "Black Thistle",
   "block.biomemakeover.foxglove": "Foxglove",
-
   "item.biomemakeover.button_mushrooms_music_disk": "Schallplatte",
   "item.biomemakeover.ghost_town_music_disk" : "Schallplatte",
   "item.biomemakeover.swamp_jives_music_disk" : "Schallplatte",
@@ -349,7 +346,6 @@
   "item.biomemakeover.stunt_powder": "Hemmpulver",
   "item.biomemakeover.moth_spawn_egg": "Motten Spawn-Ei",
   "item.biomemakeover.moth_scales": "Mottenschuppen",
-  
   "item.biomemakeover.crude_cladding": "Crude Cladding",
   "item.biomemakeover.cladded_helmet": "Cladded Helmet",
   "item.biomemakeover.cladded_chestplate": "Cladded Chestplate",
@@ -499,7 +495,7 @@
   "advancements.biomemakeover.poltergeist.description": "Stelle einen Poltergeist-Block her",
   "advancements.biomemakeover.root.title": "Biome Makeover",
   "advancements.biomemakeover.root.description": "Danke fürs installieren von Biome Makeover!",
-  "advancements.biomemakeover.scuttler_tail.title": "Rasselnder Rumpf,,
+  "advancements.biomemakeover.scuttler_tail.title": "Rasselnder Rumpf",
   "advancements.biomemakeover.scuttler_tail.description": "Erhalte einen Scuttler Schwanz",
   "advancements.biomemakeover.sunken_ruin.title": "Flaues Gefühl",
   "advancements.biomemakeover.sunken_ruin.description": "Finde eine versunkene Ruine",
